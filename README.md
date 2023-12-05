@@ -9,5 +9,5 @@
 ### Ablation experiment table
 
 
-### checkpoint
+### Checkpoint
 
