@@ -8,11 +8,9 @@ The project is in the submission stage. Currently, the warehouse provides experi
 
 ## Experimental comparison data table
 ![image](table.png)
+[Experimental comparison data table](https://github.com/your-xunzong/ScribblePert/blob/main/Experimental%20comparison%20data%20table.xlsx)
 
 ## Ablation experiment table
-![table_download_link]([Ablation experiment table.xlsx](https://github.com/your-xunzong/ScribblePert/blob/main/Ablation%20experiment%20table.xlsx)https://github.com/your-xunzong/ScribblePert/blob/main/Ablation%20experiment%20table.xlsx)
-
-
-[table_download_link](https://github.com/your-xunzong/ScribblePert/blob/main/Ablation%20experiment%20table.xlsx)
+[Ablation experiment table download link](https://github.com/your-xunzong/ScribblePert/blob/main/Ablation%20experiment%20table.xlsx)
 ## Checkpoint
 
