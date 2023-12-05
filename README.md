@@ -10,7 +10,7 @@ The project is in the submission stage. Currently, the warehouse provides experi
 ![image](table.png)
 
 ## Ablation experiment table
-[table download link](Ablation experiment table.xlsx)
+![table_download_link](Ablation experiment table.xlsx)
 
 ## Checkpoint
 
