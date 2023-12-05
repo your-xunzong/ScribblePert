@@ -4,7 +4,7 @@
 # Currently public sections
 
 ## Experimental comparison data table
-
+![image](table.png)
 ## Ablation experiment table
 
 ## checkpoint
