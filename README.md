@@ -15,4 +15,4 @@ ScribblePert: A Semantic Segmentation Method for Multi-Scale and Multi-Channel S
 [Ablation experiment table download link](https://github.com/your-xunzong/ScribblePert/blob/main/Ablation%20experiment%20table.xlsx)
 
 * Checkpoint
-
+[Checkpoint download link](https://drive.google.com/drive/folders/1CcxTsNiMR9SQDO9h1TjwuR3wrOWsWPB9)
